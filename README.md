@@ -3,7 +3,7 @@ Welcome! This couse has been designed to serve as a student's first introduction
 
 The syllabus will be updated and published here soon.
 
-This workshop will be held in **MEZ 2.118 6-7PM, every Tuesday**
+This workshop will be held in **RLM 7.124 6-7PM, every Tuesday**
 
 ## Instructors
 * Sean Yu (seantyu@utexas.edu)
