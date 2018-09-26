@@ -1,4 +1,9 @@
 places = ["Finland", "Iceland", "Japan", "Germany", "The Galapagos Islands"]
+
+
+
+
+
 print(places)
 print(sorted(places))
 print(places)
