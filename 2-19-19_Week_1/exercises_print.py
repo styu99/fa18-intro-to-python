@@ -20,7 +20,6 @@ print(calvin) # this will print: Mike
 print("calvin") # this will print: calvin
 
 # The hard one. :)
-
 var = 18
 x = 12
 var = x
